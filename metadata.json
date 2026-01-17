@@ -1,0 +1,8 @@
+{
+  "name": "Gadi Dost",
+  "description": "The ultimate companion app for the Indian logistics ecosystem. Connects drivers, fleet owners, and customers with GPS, emergency services, and smart tools.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
